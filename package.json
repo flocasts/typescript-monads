@@ -62,7 +62,7 @@
     "semantic-release": "^17.0.8",
     "terser": "^4.7.0",
     "ts-jest": "^26.0.0",
-    "ts-node": "^8.10.1",
+    "ts-node": "^8.10.2",
     "typescript": "^3.9.3"
   },
   "optionalDependencies": {
